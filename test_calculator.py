@@ -18,4 +18,3 @@ class TestCalculator:
 
     def test_division(self):
         assert 5 == calculator.divide(10, 2)
-
