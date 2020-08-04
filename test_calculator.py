@@ -18,3 +18,6 @@ class TestCalculator:
 
     def test_division(self):
         assert 5 == calculator.divide(10, 2)
+
+    def test_even_no(self):
+        assert calculator.even_no_check(10) == True
