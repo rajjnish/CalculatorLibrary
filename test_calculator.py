@@ -20,4 +20,5 @@ class TestCalculator:
         assert 5 == calculator.divide(10, 2)
 
     def test_even_no(self):
-        assert calculator.even_no_check(10) == True
+        even = calculator.even_no_check(10)
+        assert even is True
