@@ -65,7 +65,7 @@ pytest-mock==2.0.0
 pytest-xdist==1.31.0
 python-docx==0.8.10
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 raven==6.10.0
 requests==2.22.0
 requests-file==1.5.1
